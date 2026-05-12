@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ambikaas27
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning CSS , JavaScript and Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ambika Sharma 👋
 
-<!---
-ambikaas67/ambikaas67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer from Varanasi, India.
+
+## 🛠 Tech Stack
+- **Languages:** Python, PHP, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Express, Bootstrap
+- **Database:** MySQL
+- **Tools:** Git, VS Code
+
+## 🚀 Projects
+- 🎓 **Online Education Platform** — Full-stack LMS with PHP, MySQL, Python
+- 🌐 **Developer Portfolio** — React + Python + MySQL (coming soon)
+
+## 📫 Connect with me
+- LinkedIn: [ambika-sharma-4115a7213](https://linkedin.com/in/ambika-sharma-4115a7213)
+- Email: ambikasharma67721@gmail.com
