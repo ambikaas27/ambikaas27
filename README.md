@@ -9,7 +9,7 @@ Full Stack Developer from Varanasi, India.
 - **Tools:** Git, VS Code
 
 ## 🚀 Projects
-- 🎓 **Online Education Platform** — Full-stack LMS with PHP, MySQL, Python
+- 🎓 **Online Education Platform** — Full-stack LMS with PHP, MySQL, Python (going on)
 - 🌐 **Developer Portfolio** — React + Python + MySQL (coming soon)
 
 ## 📫 Connect with me
