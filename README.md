@@ -10,7 +10,7 @@ Full Stack Developer from Varanasi, India.
 
 ## 🚀 Projects
 - 🎓 **Online Education Platform** — Full-stack LMS with PHP, MySQL, Python (going on)
-- 🌐 **Developer Portfolio** — React + Python + MySQL (https://ambikaas27.github.io/my-portfolio/)
+- 🌐 **Developer Portfolio** — React + JavaScript + CSS + EmailJS (https://ambikaas27.github.io/my-portfolio/)
 
 ## 📫 Connect with me
 - LinkedIn: [ambika-sharma-4115a7213](https://linkedin.com/in/ambika-sharma-4115a7213)
