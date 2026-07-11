@@ -9,7 +9,7 @@ Full Stack Developer from Varanasi, India.
 - **Tools:** Git, VS Code
 
 ## 🚀 Projects
-- 🎓 **Online Education Platform** — Full-stack LMS with PHP, MySQL, Python (going on)
+- 🎓 **AI Resume Analyzer** — Python, HTML, CSS, Bootstrap, JavaScript (going on)
 - 🌐 **Developer Portfolio** — React + JavaScript + CSS + EmailJS (https://ambikaas27.github.io/my-portfolio/)
 
 ## 📫 Connect with me
