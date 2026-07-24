@@ -10,6 +10,7 @@ Full Stack Developer from Varanasi, India.
 
 ## 🚀 Projects
 - 🌐 **Developer Portfolio** — React + JavaScript + CSS + EmailJS (https://ambikaas27.github.io/my-portfolio/)
+- 📚 **Study Adda** — Full-Stack LMS — PHP, MySQL, Bootstrap, JavaScript (https://studyadda.infinityfreeapp.com/)
 - 🎓 **AI Resume Analyzer** — Python, HTML, CSS, Bootstrap, JavaScript (going on)
 
 ## 📫 Connect with me
